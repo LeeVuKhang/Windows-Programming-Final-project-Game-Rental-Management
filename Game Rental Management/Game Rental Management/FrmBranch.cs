@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Game_Rental_Management
 {
-    public partial class FrmBranch : Form
+    public partial class FrmBranch : UserControl
     {
         public FrmBranch()
         {

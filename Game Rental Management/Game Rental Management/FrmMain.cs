@@ -16,5 +16,35 @@ namespace Game_Rental_Management
         {
             InitializeComponent();
         }
+
+        private void lblExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnCustomer_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGame_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRental_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRentalDetails_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnBranch_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
